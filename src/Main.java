@@ -26,6 +26,8 @@ public class Main {
 
         graph.print();
 
+        System.out.println(graph.checkEdge(4,0));
+
 
     }
 }
